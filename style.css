@@ -1,0 +1,8 @@
+a:hover{
+
+    background-color: burlywood;
+    transition: ease-in-out 1s ;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
